@@ -1,11 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby v2 InterUI',
+    title: 'Gatsby v2 InterUI with subfont plugin',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-components',
-    `gatsby-plugin-subfont`,
     'gatsby-plugin-sass',
     {
       resolve: `gatsby-plugin-manifest`,
