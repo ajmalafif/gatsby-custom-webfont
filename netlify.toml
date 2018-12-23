@@ -2,5 +2,4 @@
 # unless otherwise overridden by more specific contexts.  
 [build]
   # Default build command.
-  # command = " gatsby build && subfont public -i"
-  command = " gatsby build"
+  command = " gatsby build && subfont public -i"
