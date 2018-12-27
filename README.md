@@ -1,12 +1,5 @@
-Gatsby v2 + custom webfont starter
+Gatsby v2 + Tachyons + Subfont starter
 
 # Gatsby + custom webfont
 - [x] Load tachyons into Gatsby
-- [x] Load Inter UI
-
-Removed `requirements.txt`
-```
-fonttools
-brotli
-zopfli
-```
+- [x] Load Inter UI + subfont

@@ -1,11 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby custom webfont',
+    title: 'Gatsby v2 custom webfont',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-components',
     'gatsby-plugin-sass',
+    'gatsby-plugin-subfont',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
