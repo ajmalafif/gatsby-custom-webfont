@@ -1,2 +1,1 @@
-# Gatsby v2 + Tachyons + Subfont starter
-Gatsby v2 + Tachyons + Inter UI [subfont](https://www.gatsbyjs.org/packages/gatsby-plugin-subfont/) setup.
+Gatsby v2 + tachyons + typeface-inter + [subfont](https://www.gatsbyjs.org/packages/gatsby-plugin-subfont/) setup.
