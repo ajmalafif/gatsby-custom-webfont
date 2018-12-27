@@ -12,7 +12,6 @@
     "gatsby-plugin-react-helmet": "^3.0.0",
     "gatsby-plugin-sass": "^2.0.1",
     "gatsby-plugin-styled-components": "^3.0.1",
-    "gatsby-plugin-subfont": "^1.0.3",
     "inter-ui": "^3.1.0",
     "node-sass": "^4.9.3",
     "react": "^16.5.2",
@@ -33,7 +32,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^1.14.3"
+    "prettier": "^1.14.3",
+    "typeface-inter": "^3.1.0"
   },
   "repository": {
     "type": "git",
